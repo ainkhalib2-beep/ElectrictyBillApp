@@ -1,0 +1,2 @@
+# ElectrictyBillApp
+ICT602 INDIVIDUAL ASSIGNMENT
